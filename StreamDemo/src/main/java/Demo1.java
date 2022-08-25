@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-public class Demo {
+public class Demo1 {
     public static void main(String[] args) {
 
         // 使用Stream.of()静态方法，创建stream
